@@ -7,7 +7,7 @@ resumes, or anything else you paste in — the planner figures out the plan/rubr
 
 ```bash
 bun install          # no deps yet, just sets up bun's lockfile
-cp .env.example .env # then fill in your ANTHROPIC_API_KEY
+cp .env.example .env # then fill in your AI_API_KEY
 ```
 
 ## Run
